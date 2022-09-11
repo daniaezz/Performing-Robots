@@ -1,1 +1,11 @@
+# Robots: Asleep, Awake, Alone, and in Love
 
+Throughout the different performances spoken about in this reading, one thing was apparent: these performances were trying to form a connection between humans and robots in one way or another, mainly by making these robots appear more human using anthropomorphism to gain the sympathy of the audience. 
+
+The *“Robots in Love?”*  and *“The Woman and The Snowman”*  performances focused more on the visual anthropomorphism of the robots, making them look human. Through the reading, it felt like the robots that resembled humans in looks were also expected to match the same level of intelligence, responsiveness and emotions that can be observed in humans. I believe that this expectation can sometimes cause the robot to fall into the uncanny valley when it fails to meet the expectations set by the audience, hence breaking the connection it had formed with the audience.
+
+In the case of *“Fish – Bird”*, where the characters would take the forms of everyday objects, the performance was more focused on the emotions of these characters disguised as random objects. I thought it was amazing how they were able to make the audience sympathize with two wheelchairs, with no extraordinary characteristics. I think the audience’s interactions with the wheelchairs played a huge part in getting them to make these objects feel human. From reading the notes to experiencing the way they orbit around the space, the audience must have felt connected to the wheelchairs emotionally and thus, to make sense of everything happening, the audience gave these wheelchairs emotions. 
+
+It was also interesting to see how the intimacy between the user and the robot increases when they have more human characteristics. In the case of *Dancer#3*, the sounds added to the robot helped the audience imagine it having conversations, which allows us to feel more connected to the robot. 
+
+After reading about the different ways dramaturgists attempt to make robots more human-like, I started to wonder what the purpose behind making these humanoid robots is? It was even mentioned in the reading that “If robots and humans are equally good actors, then, given all the expense of the robot, why would one bother to use one?” 
