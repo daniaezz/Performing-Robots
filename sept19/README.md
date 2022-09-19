@@ -1,1 +1,6 @@
 # On Stage: Robots as performers
+
+
+This week’s reading emphasized on two main ideas, continuity and responsiveness, to make a robot's movement and acting seem more natural. Both of these methods require the robot to make decisions based on partial information available. In the continuity method, the robot would be continuously active and when deemed right, would carry out a certain action. It was mentioned that for this to happen, the robot must have its own “inner monologue” just as human actors do. The idea of a robot having its own inner monologue reminds me of how we spoke in class about colonizing robots. It feels like they are trying to make these robots appear more human which made me question why we try to create human-like robots, especially for performances. As mentioned in previous readings, a robot replica of a human isn’t necessary for the performing industry, so why do we still try to humanize these robots? 
+
+As for the responsiveness method, which requires the robot to make decisions based on partial information available to it, I wonder what would happen if the robot misinterpreted the information available to it? Would it ruin the performance or would it open up space for improvisation and the creation of something new? 
