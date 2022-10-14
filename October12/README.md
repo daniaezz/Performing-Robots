@@ -9,3 +9,5 @@ Making the robot move using a remote control took much longer than I anticipated
 
 --- 
 # Thinking Something Makes it So
+
+“‘[y]our android. How much of it is you?” This question intrigued me because throughout the reading, it was emphasised that the robot.. is a replica of human Ikunmi, this paragraph however, suggests that human ikumi and android ikumi have different character traits the more android ikumi experiences things. Because android ikumi experiences things forever as it can not die, this makes me wonder when android ikumi will stop being a replica of human ikumi and become its own “person”, with its own experiences, when does it become “human” if it can ever reach that stage?
