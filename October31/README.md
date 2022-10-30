@@ -1,6 +1,6 @@
 # Eight Lessons Learned about Non-verbal Interactions through Robot Theater
 
-non-verbal communication is one of the most fundamental components of human interaction and incorporating it in the different ways mentioned in the reading will result in more natural human-robot interaction and even human-human or robot-robot interaction. 
+Non-verbal communication is one of the most fundamental components of human interaction and incorporating it in the different ways mentioned in the reading will result in more natural human-robot interaction and even human-human or robot-robot interaction. 
 
 
 One of the things that stood out to me in this reading was lesson 2 - There Is No Mind without Body. This section made me wonder if a body is necessary for a robot to be fully expressive? While I do think that having a body and utilizing it correctly will give the robot a whole other dimension of expressiveness, I believe that an (almost) equal level of expressiveness could be reached even by virtual agents that do not have a physical body if they were to utilize the tools available to them, like sound, correctly to make them appear more expressive. 
